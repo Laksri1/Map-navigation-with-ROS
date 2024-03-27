@@ -1,0 +1,2 @@
+nav
+-DCATKIN_DEVEL_PREFIX=/home/laksri/Map-navigation-with-ROS/devel -DCMAKE_INSTALL_PREFIX=/home/laksri/Map-navigation-with-ROS/install -G Unix Makefiles
